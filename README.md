@@ -1,4 +1,4 @@
-# 🎬 MyDailyWork_Task3_Movie_Recommendation_System
+# 🎬 MyMovie_Recommendation_System
 
 A **content-based movie recommendation system** built using **Python** that suggests similar movies based on genre, actors, directors, and awards.
 
@@ -48,7 +48,7 @@ The project focuses on understanding the basics of **recommendation systems, sim
 2. **Navigate to the project folder**
 
    ```bash
-   cd MyDailyWork_Task3_Movie_Recommendation_System
+   cd MyMovie_Recommendation_System
    ```
 
 3. **Run the recommender system**
@@ -62,7 +62,7 @@ The project focuses on understanding the basics of **recommendation systems, sim
 ## 📂 Project Structure
 
 ```
-MyDailyWork_Task3_Movie_Recommendation_System/
+MyMovie_Recommendation_System/
 │── movie_recommender.py   # Main recommendation logic
 │── README.md              # Project documentation
 ```
